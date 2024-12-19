@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|C:\\Users\\Vishal\\source\\repos\\OOPS\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|c:\\users\\vishal\\source\\repos\\oops\\oops\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|solutionrelative:oops\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|c:\\users\\vishal\\source\\repos\\oops\\oops\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|solutionrelative:oops\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|c:\\users\\vishal\\source\\repos\\oops\\oops\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|solutionrelative:oops\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|c:\\users\\vishal\\source\\repos\\oops\\oops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BC0BFC-8418-432A-A1D7-E26C86260A47}|OOPS\\OOPS.csproj|solutionrelative:oops\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "OOPS\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Polymorphism.cs",
+              "RelativeToolTip": "OOPS\\Polymorphism.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:35:19.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Abstraction.cs",
+              "RelativeDocumentMoniker": "OOPS\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Abstraction.cs",
+              "RelativeToolTip": "OOPS\\Abstraction.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:21:19.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "OOPS\\Encapsulation.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Encapsulation.cs",
+              "RelativeToolTip": "OOPS\\Encapsulation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:10:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Inheritance.cs",
+              "RelativeDocumentMoniker": "OOPS\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Inheritance.cs",
+              "RelativeToolTip": "OOPS\\Inheritance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:00:02.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\OOPS\\OOPS\\Program.cs",
+              "RelativeToolTip": "OOPS\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:10:18.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
